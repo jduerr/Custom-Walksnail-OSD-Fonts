@@ -9,7 +9,7 @@
 | user_ardu     | Caddx         |  ✅ / ✅     |
 | user_bf       | Caddx         |  ✅ / ✅     |
 | SimpleColor   | JayDee FPV    |  ✅ / ✅     |
-| Content Cell  | JayDee FPV    |  ✅ / ❌     |
+| Walksnail mint| JayDee FPV    |  ✅ / ❌     |
 
 
 ## How to update user fc osd font:
@@ -24,12 +24,11 @@
 
 ## Preview:
 
-[![Preview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=D473rgZ42Sw)
-
+### Walksnail Mint
 ![Walksnail Mint](preview/walksnailMint.png?raw=true "Walksnail Mint")
 
 
 ## Video Manual
 
-[![Preview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PLhPA_fMIaKfErQaHS-aos0bIIj0M3bhoI)
+[![Preview](https://img.youtube.com/vi/PLhPA_fMIaKfErQaHS-aos0bIIj0M3bhoI/0.jpg)](https://www.youtube.com/watch?v=PLhPA_fMIaKfErQaHS-aos0bIIj0M3bhoI)
 
