@@ -13,14 +13,22 @@
 
 
 ## How to update user fc osd font:
-1: modify font_update.ini
-2: copy font_update.ini and font png files to sd card
-3: insert sd card to goggles
-4: open goggles menu [display], click [Font Update] to update font
-5: select [Custom Font] and exit menu
+
+- modify font_update.ini
+- copy font_update.ini and font png files to sd card
+- insert sd card to goggles
+- open goggles menu [display], click [Font Update] to update font
+- select [Custom Font] and exit menu
 
 
 
 ## Preview:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D473rgZ42Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Walksnail Mint](preview/walksnailMint.png?raw=true "Walksnail Mint")
+
+
+## Video Manual
+
+https://www.youtube.com/watch?v=IwhbjAaJLKU&list=PLhPA_fMIaKfErQaHS-aos0bIIj0M3bhoI
