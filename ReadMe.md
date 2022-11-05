@@ -6,6 +6,8 @@
 
 | OSD NAME      | Creator /Pilot| 1080p / 720p  |
 | ------------- | ------------- | ------------- |
+| user_ardu     | Caddx         |  ✅ / ✅     |
+| user_bf       | Caddx         |  ✅ / ✅     |
 | SimpleColor   | JayDee FPV    |  ✅ / ✅     |
 | Content Cell  | JayDee FPV    |  ✅ / ❌     |
 
