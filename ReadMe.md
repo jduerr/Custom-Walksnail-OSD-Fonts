@@ -24,11 +24,12 @@
 
 ## Preview:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D473rgZ42Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Preview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=D473rgZ42Sw)
 
 ![Walksnail Mint](preview/walksnailMint.png?raw=true "Walksnail Mint")
 
 
 ## Video Manual
 
-https://www.youtube.com/watch?v=IwhbjAaJLKU&list=PLhPA_fMIaKfErQaHS-aos0bIIj0M3bhoI
+[![Preview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PLhPA_fMIaKfErQaHS-aos0bIIj0M3bhoI)
+
