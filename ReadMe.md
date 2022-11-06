@@ -9,7 +9,7 @@
 | user_ardu     | Caddx         |  ✅ / ✅     |
 | user_bf       | Caddx         |  ✅ / ✅     |
 | SimpleColor   | JayDee FPV    |  ✅ / ✅     |
-| Walksnail mint| JayDee FPV    |  ✅ / ❌     |
+| Walksnail mint| JayDee FPV    |  ✅ / ✅     |
 
 
 ## How to update user fc osd font:
